@@ -1,2 +1,2 @@
-# Server-Socket-Java
+# Client-Server-Socket-Java
 Network Programming - Lab Assignment 2  
